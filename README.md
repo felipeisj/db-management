@@ -1,2 +1,3 @@
 # INFO261
-Asignatura bases de datos
+Ejercicios de la asignatura bases de datos
+Felipe Salazar

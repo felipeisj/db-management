@@ -1,3 +1,3 @@
-# INFO261
-Ejercicios de la asignatura bases de datos
-Felipe Salazar
+# db Management
+
+Some exercises using sql and no sql databases
